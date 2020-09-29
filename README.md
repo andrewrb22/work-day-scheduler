@@ -1,6 +1,6 @@
 # Day Planner
 
-![calendar application screenshot](/screenshots/2020-09-18(2).png)
+![calendar application screenshot](https://github.com/andrewrb22/work-day-scheduler/blob/master/Screenshot/2020-09-18%20(2).png)
 
 ## How it Works
 ✓ The application displays timeblocks for standard business hours (9 a.m. to 5 p.m.).
@@ -12,5 +12,7 @@
 ✓ The current day is displayed at the top of the calendar.
 
 ✓ Each timeblock is color coded to indicate whether it is in a past, present, or future hour.
+
+**Link to the project**
 
 ✓ https://andrewrb22.github.io/work-day-scheduler/
